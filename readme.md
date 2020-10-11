@@ -1,5 +1,7 @@
 # Evil Twin - Attack and Defence Tool
 
+* This project was done as an exercise in a cyber course, and has only education goals
+
 <!-- ----------------------------------------------------------------------- -->
 <!-- ------------------ Requirements for running the code ------------------ -->
 <!-- ----------------------------------------------------------------------- -->
@@ -259,3 +261,4 @@ To run and test the web server, do as following:
     ![web-server_error-80](https://github.com/orelrahum/evil-twin/blob/master/pictures2/web-server_error-80.png)  
     This probably happen because you have another web server (Apache, IIS, etc.) that is in use at the moment, and it is using port: 80  
     You need to stop it's service. For example, if you have Apache in use, you need to run the command ```$ sudo service apache2 stop```   
+
