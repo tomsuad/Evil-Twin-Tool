@@ -1,4 +1,4 @@
-# Evil Twin - Attack and Defence Tool
+# Evil Twin - Attack and Defense Tool
 
 * This project was done as an exercise in a cyber course, and has only education goals
 
